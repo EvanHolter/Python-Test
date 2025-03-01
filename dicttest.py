@@ -19,5 +19,5 @@ for i in range(2):
     try:
         print(mark[i])
     except:
-        print("NO MORE")
+        # print("NO MORE")
         break
